@@ -50,7 +50,7 @@
 <table align="center">
   <tr>
  <td align="center" width="200">
-      <img height="200" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4zc2xmYm1jeWhtZXE5dWtrcTNneGQybXc2OXp2emc2OXR1dTdjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAUuzHD05hftq7D2T2/giphy.gif" />
+      <img height="200" width="200" src="https://media.giphy.com/media/cJ4DbROV2e75u/giphy.gif?cid=ecf05e477dg8md88visungb0szhy041ga5rrmq3jt7daun9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
     </td>
     <td align="center">
       <a href="mailto:syed.tam2016@gmail.com" target="_blank">
