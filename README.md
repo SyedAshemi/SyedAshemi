@@ -49,11 +49,8 @@
 
 <table align="center">
   <tr>
-<td align="center" width="200">
-      <video width="200" height="200" autoplay loop muted>
-        <source src="https://drive.google.com/file/d/18801W4f-g0iFZBjM5G6euKueeAEeP3Ht/view?usp=sharing" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+ <td align="center" width="200">
+      <img height="200" width="200" src="https://www.fau.edu/engineering/biomedical/labs/research/bio-inspired-sciences-and-technologies-lab/your-gif.gif" />
     </td>
     <td align="center">
       <a href="mailto:syed.tam2016@gmail.com" target="_blank">
