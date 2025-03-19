@@ -49,29 +49,25 @@
 
 <table align="center">
   <tr>
- <td align="center">
-  <a href="mailto:syed.tam2016@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <br>
-  <a href="https://syedashemi.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
-  </a>
+    <td align="center" width="200">
+      <img height="200" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28zZWJjYndkdjZjbGhjM3BnczVvc2dscms0b3ZmcGFzZTE2cXR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJ4DbROV2e75u/giphy.gif" />
+    </td>
+    <td align="center">
+      <a href="mailto:syed.tam2016@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+      </a>
       <br>
-     <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-<br>
-<a href="https://syedashemi.github.io/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Website&logo=chrome&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
-</a>
+      <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      </a>
+      <br>
+      <a href="https://syedashemi.github.io/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 ###
 
