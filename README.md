@@ -46,29 +46,39 @@
 <div align="center">
 </div>
 
-<table align="center">
+<table align="center" style="background-color: white; border-radius: 10px; padding: 20px;">
   <tr>
     <td align="center" width="200">
-      <img height="200" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28zZWJjYndkdjZjbGhjM3BnczVvc2dscms0b3ZmcGFzZTE2cXR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJ4DbROV2e75u/giphy.gif" />
+      <!-- GIF with white outline -->
+      <div style="display: inline-block; border: 5px solid white; border-radius: 50%;">
+        <img height="200" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28zZWJjYndkdjZjbGhjM3BnczVvc2dscms0b3ZmcGFzZTE2cXR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJ4DbROV2e75u/giphy.gif" />
+      </div>
     </td>
     <td align="center">
-      <!-- Gmail -->
+      <!-- Gmail with white outline -->
       <a href="mailto:syed.tam2016@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="gmail logo" />
+        <div style="display: inline-block; border: 5px solid white; border-radius: 50%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="gmail logo" />
+        </div>
       </a>
       <br>
-      <!-- LinkedIn -->
+      <!-- LinkedIn with white outline -->
       <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="linkedin logo" />
+        <div style="display: inline-block; border: 5px solid white; border-radius: 50%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="linkedin logo" />
+        </div>
       </a>
       <br>
-      <!-- Website (World Wide Web) -->
+      <!-- Website (World Wide Web) with white outline -->
       <a href="https://syedashemi.github.io/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="47" alt="website logo" />
+        <div style="display: inline-block; border: 5px solid white; border-radius: 50%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="47" alt="website logo" />
+        </div>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
