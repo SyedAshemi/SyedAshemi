@@ -62,7 +62,7 @@
       </a>
       <br>
       <a href="https://syedashemi.github.io/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+        <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
       </a>
     </td>
   </tr>
