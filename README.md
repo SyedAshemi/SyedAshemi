@@ -72,7 +72,7 @@
       <!-- Website (World Wide Web) with white outline using box-shadow -->
       <a href="https://syedashemi.github.io/" target="_blank">
         <div style="display: inline-block; border-radius: 50%; box-shadow: 0 0 10px 5px white;">
-          <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="50" alt="website logo" />
+          <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="60" alt="website logo" />
         </div>
       </a>
     </td>
