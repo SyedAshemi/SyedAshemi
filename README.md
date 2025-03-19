@@ -54,17 +54,17 @@
     <td align="center">
       <!-- Gmail -->
       <a href="mailto:syed.tam2016@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="gmail logo" />
       </a>
       <br>
       <!-- LinkedIn -->
       <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" alt="linkedin logo" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="linkedin logo" />
       </a>
       <br>
       <!-- Website -->
       <a href="https://syedashemi.github.io/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1047/1047795.png" height="35" alt="website logo" />
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="website logo" />
       </a>
     </td>
   </tr>
