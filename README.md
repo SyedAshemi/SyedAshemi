@@ -64,7 +64,7 @@
       <br>
       <!-- Website (World Wide Web) -->
       <a href="https://syedashemi.github.io/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="40" alt="website logo" />
+        <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="50" alt="website logo" />
       </a>
     </td>
   </tr>
