@@ -49,19 +49,24 @@
 
 <table align="center">
   <tr>
- <td align="center" width="200">
-      <img height="200" width="200" src="https://media.giphy.com/media/cJ4DbROV2e75u/giphy.gif?cid=ecf05e477dg8md88visungb0szhy041ga5rrmq3jt7daun9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-    </td>
-    <td align="center">
-      <a href="mailto:syed.tam2016@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-      </a>
+ <td align="center">
+  <a href="mailto:syed.tam2016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <br>
+  <a href="https://syedashemi.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
       <br>
      <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 <br>
-<a href="https://yourwebsite.com" target="_blank">
+<a href="https://syedashemi.github.io/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Website&logo=chrome&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
 </a>
     </td>
