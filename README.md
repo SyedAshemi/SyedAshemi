@@ -59,7 +59,7 @@
       <br>
       <!-- LinkedIn -->
       <a href="https://www.linkedin.com/in/syed-ashemi-423904226/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35" alt="linkedin logo" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" alt="linkedin logo" />
       </a>
       <br>
       <!-- Website -->
